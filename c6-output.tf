@@ -1,5 +1,3 @@
-# Define Output Values
-
 # Attribute Reference
 output "ec2_publicip" {
   description = "EC2 Instance Public IP"
